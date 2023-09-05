@@ -10,7 +10,7 @@ class Ngetesaja extends BaseController
     {
         $data = [
             "title" => "Coba Aja",
-            "name" => "Mutiara."
+            "name" => "dapit."
         ];
 
         echo view('index', $data);

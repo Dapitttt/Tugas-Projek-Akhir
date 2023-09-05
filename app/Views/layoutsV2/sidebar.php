@@ -3,9 +3,9 @@
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/dashboard">
         <div class="sidebar-brand-icon rotate-n-15">
-            <img width= 50% height=50% src= "<?= base_url() ?>assets/admin/img/logo_native_crop-removebg-preview.png" alt= "My Image">
+            <img width= 125% height=125% src= "<?= base_url() ?>assets/admin/img/Logo_2-removebg-preview.png" alt= "My Image">
         </div>
-        <div class="sidebar-brand-text mx-3">Native</div>
+        <div class="sidebar-brand-text mx-3">WEBKU</div>
     </a>
 
     <!-- Divider -->

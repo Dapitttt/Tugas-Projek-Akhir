@@ -7,4 +7,4 @@
 <link rel="stylesheet" href="/assets/css/main.css">
 <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
 
-<title><?= isset($title) ? $title : "Welcome to Native!" ?></title>
+<title><?= isset($title) ? $title : "Welcome to WEBKU!" ?></title>

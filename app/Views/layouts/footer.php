@@ -1,6 +1,6 @@
 <footer class="footer ">
     <div class="container ">
         
-        <span class="text-muted ">Native</span>
+        <span class="text-muted ">WEBKU</span>
     </div>
 </footer>
